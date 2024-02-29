@@ -1,0 +1,3 @@
+!*.exe*
+\\sto escludendo ogni eseguibile in questo modo
+!*.vcxproj*
