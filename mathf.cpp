@@ -1,6 +1,6 @@
 /** \file mathf.c
 	\brief functions of the main project
-	\author Luca Corsini
+	\author Paolo Gastaldo
 
 	all the functions are in this file
 */
